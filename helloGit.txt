@@ -2,3 +2,4 @@ helloGit
 我想要把你学会。
 testBranch
 修改testBranch分支第四行添加：testBranch
+GitCloneTest修改了文件，并且push到远程仓库
