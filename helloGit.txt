@@ -3,3 +3,4 @@ helloGit
 testBranch
 修改testBranch分支第四行添加：testBranch
 GitCloneTest修改了文件，并且push到远程仓库
+为了进行远程冲突处理而进行的一次修改
