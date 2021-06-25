@@ -3,4 +3,5 @@ helloGit
 testBranch
 在Master第四行添加：master
 修改testBranch分支第四行添加：testBranch
-为了出现远程冲突回退版本进行了不一样的修改
+GitCloneTest修改了文件，并且push到远程仓库
+手动解决远程冲突内容后
